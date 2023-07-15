@@ -1,0 +1,1 @@
+const appbarText = "Text Recognition";
